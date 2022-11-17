@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JulianSeveso
-- 👀 I’m interested in Data Scince, Software, AI.
 - 🌱 I’m currently learning Python, SQL.
 - 📫 How to reach me julianseveso@gmail.com
 
